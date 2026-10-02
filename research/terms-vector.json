@@ -1,0 +1,16 @@
+{
+  "chainId": 4663,
+  "settlement": "0xdc64a140aa3e981100a9beca4e685f962f0cf6c9",
+  "invoiceId": "inv-1",
+  "recipient": "0x70997970c51812dc3a010c7d01b50e0d17dc79c8",
+  "usdgToRecipient": "800000000",
+  "tokens": [
+    "0xe7f1725e7734ce288f8367e1bb143e90bb3f0512",
+    "0x9fe46736679d2d9a65f0992f2272de9f3c7fa6e0"
+  ],
+  "amountsIn": [
+    "140000000",
+    "60000000"
+  ],
+  "terms": "0xabbfe92b25e4dda20303332c0cb863ea873977791f3cf3f54af5fc46349aaeb5"
+}

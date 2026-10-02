@@ -1,0 +1,13 @@
+{
+  "name": "paid-chain",
+  "private": true,
+  "description": "The settlement contract, its tests, and a local fork of Robinhood Chain for rehearsing payments. Never loaded by the app itself.",
+  "scripts": {
+    "build": "hardhat compile && node export.cjs",
+    "test": "hardhat run test.cjs",
+    "serve": "FORK=1 hardhat run serve.cjs"
+  },
+  "devDependencies": {
+    "hardhat": "^2.29.0"
+  }
+}

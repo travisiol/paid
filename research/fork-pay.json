@@ -1,0 +1,65 @@
+{
+  "at": "2026-10-02T18:28:35.703Z",
+  "block": 78442035,
+  "settlement": "0x958731BAE01CBE7eF148b5eA50F9e173C973cc7b",
+  "invoice": {
+    "id": "forkmuraqpk7",
+    "recipient": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+    "amountCents": 40000,
+    "stockPercent": 50,
+    "allocations": [
+      {
+        "symbol": "NVDA",
+        "share": 25
+      },
+      {
+        "symbol": "AAPL",
+        "share": 25
+      },
+      {
+        "symbol": "TSLA",
+        "share": 25
+      },
+      {
+        "symbol": "SPY",
+        "share": 25
+      }
+    ]
+  },
+  "gasUsed": "1477308",
+  "ok": true,
+  "rows": [
+    {
+      "symbol": "NVDA",
+      "amountIn": "50000000",
+      "received": "212406867271777903",
+      "minOut": "210282791486200551",
+      "feeMicro": "125000",
+      "tool": "kyberswap"
+    },
+    {
+      "symbol": "AAPL",
+      "amountIn": "50000000",
+      "received": "149743959118324831",
+      "minOut": "148306150722966636",
+      "feeMicro": "125000",
+      "tool": "kyberswap"
+    },
+    {
+      "symbol": "TSLA",
+      "amountIn": "50000000",
+      "received": "134110696890562723",
+      "minOut": "133003354285652321",
+      "feeMicro": "125000",
+      "tool": "kyberswap"
+    },
+    {
+      "symbol": "SPY",
+      "amountIn": "50000000",
+      "received": "64754609097259409",
+      "minOut": "64116207482113251",
+      "feeMicro": "125000",
+      "tool": "kyberswap"
+    }
+  ]
+}

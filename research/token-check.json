@@ -1,0 +1,49 @@
+{
+  "chainId": 4663,
+  "block": 78426980,
+  "checkedAt": "2026-10-02T17:56:58.023Z",
+  "usdg": {
+    "address": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168",
+    "name": "Global Dollar",
+    "symbol": "USDG",
+    "decimals": 6
+  },
+  "tokens": {
+    "NVDA": {
+      "address": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
+      "inOfficialList": true,
+      "listStatus": "ASSET_STATUS_ACTIVE",
+      "name": "NVIDIA • Robinhood Token",
+      "symbol": "NVDA",
+      "decimals": 18,
+      "ok": true
+    },
+    "AAPL": {
+      "address": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
+      "inOfficialList": true,
+      "listStatus": "ASSET_STATUS_ACTIVE",
+      "name": "Apple • Robinhood Token",
+      "symbol": "AAPL",
+      "decimals": 18,
+      "ok": true
+    },
+    "TSLA": {
+      "address": "0x322F0929c4625eD5bAd873c95208D54E1c003b2d",
+      "inOfficialList": true,
+      "listStatus": "ASSET_STATUS_ACTIVE",
+      "name": "Tesla • Robinhood Token",
+      "symbol": "TSLA",
+      "decimals": 18,
+      "ok": true
+    },
+    "SPY": {
+      "address": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
+      "inOfficialList": true,
+      "listStatus": "ASSET_STATUS_ACTIVE",
+      "name": "SPDR S&P 500 ETF Trust • Robinhood Token",
+      "symbol": "SPY",
+      "decimals": 18,
+      "ok": true
+    }
+  }
+}
